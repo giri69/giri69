@@ -9,7 +9,7 @@
 
 - 💞 I'm looking to collaborate on Projects **in the field of frontend-development.**
 
-- 📫 How to reach me **bjgiridharyadav@gmail.com**
+- 📫 How to reach me : **bjgiridharyadav@gmail.com**
 
 <h3 align="left" color="blue">Socials :</h3>
 <p align="left">
