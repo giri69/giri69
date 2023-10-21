@@ -1,5 +1,6 @@
-<p>Hi 👋, I'm Giridhar</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giri69&label=Profile%20views&color=0e75b6&style=flat" alt="giri69" /> </p>
+<br>
+- Hey 👋, I'm Giridhar**
 
 - 🌱 I’m currently learning **ReactJs and JS related Frameworks**
 
