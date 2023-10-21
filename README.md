@@ -1,6 +1,7 @@
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giri69&label=Profile%20views&color=0e75b6&style=flat" alt="giri69" /> </p>
-<br>
-<p>Hey 👋, I'm Giridhar</p>
+
+<p> Hi 👋, I'm Giridhar</p>
 
 - 🌱 I’m currently learning **ReactJs and JS related Frameworks**
 
@@ -12,6 +13,7 @@
 
 <h3 align="left" color="blue">Socials :</h3>
 <p align="left">
+<a href="https://twitter.com/giridha90231389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="giridha90231389" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bj-gridhar-945419259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bj-gridhar-945419259" height="30" width="40" /></a>
 <a href="https://instagram.com/giri._.07_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giri._.07_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/bj_giridhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bj_giridhar" height="30" width="40" /></a>
