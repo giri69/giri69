@@ -1,6 +1,3 @@
-
-
-
 <p> Hi 👋, I'm Giridhar</p>
 
 - 🌱 I’m currently learning **ReactJs and JS related Frameworks**
