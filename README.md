@@ -1,10 +1,10 @@
 <p> Hi 👋, I'm Giridhar</p>
 
-- 🌱 I’m currently learning **ReactJs and JS related Frameworks**
+- 🌱 I’m currently learning **Deployment**
 
 - 👀 I'm intrested in **Web-development.**
 
-- 💞 I'm looking to collaborate on Projects **in the field of frontend-development.**
+- 💞 I'm looking to collaborate on Projects **in the field of FullStack Development.**
 
 - 📫 How to reach me : **bjgiridharyadav@gmail.com**
 <hr>
