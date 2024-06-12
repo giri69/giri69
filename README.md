@@ -2,23 +2,8 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F70000&duration=3000&lines=Hi+There!+👋;+Myself++BJ+Gridhar!;" />
-</h1>
+</h1><h3 align="center">A passionate software developer from India</h3>
 
-<h3 align="center">A passionate software developer from India</h3>
-
-<br/>
-
-<div align="center">
- 
-🌱 I’m currently learning **Deployment**
-
-👀 I'm intrested in **Web-development.**
-
-💞 I'm looking to collaborate on Projects **in the field of FullStack Development.**
-
-📫 How to reach me : **bjgiridharyadav@gmail.com**
-
- </div>
  
 <div align="center"> 
   <a href="https://www.linkedin.com/in/bj-gridhar-945419259" target="_blank">
